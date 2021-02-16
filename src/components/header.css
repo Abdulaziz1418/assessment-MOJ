@@ -1,0 +1,15 @@
+#firstDiv{
+    width: 130px;
+    height: 60px;
+    background: rgb(248, 179, 32);
+    margin-left: auto; 
+margin-right: 0;
+  }
+
+#SecoundDiv{
+    width: 130px;
+    height: 60px;
+    background: rgb(33, 113, 102); 
+    margin-left: auto; 
+margin-right: 0;
+}
